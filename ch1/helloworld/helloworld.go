@@ -13,4 +13,5 @@ func main() {
 	i = 100
 	s = "edf"
 	fmt.Println(i, s, "\n")
+	fmt.Println("\n")
 }
