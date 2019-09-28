@@ -13,5 +13,4 @@ func main() {
 	i = 100
 	s = "edf"
 	fmt.Println(i, s, "\n")
-	s = "x"
 }
